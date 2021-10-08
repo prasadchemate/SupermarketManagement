@@ -3,6 +3,7 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+<<<<<<< HEAD
             <file>file:/C:/Users/Prasad/OneDrive/Documents/NetBeansProjects/SupermarketManagement/src/mypackage/Category.java</file>
             <file>file:/C:/Users/Prasad/OneDrive/Documents/NetBeansProjects/SupermarketManagement/src/mypackage/splash.java</file>
             <file>file:/C:/Users/Prasad/OneDrive/Documents/NetBeansProjects/SupermarketManagement/src/mypackage/Seller.java</file>
@@ -11,6 +12,14 @@
             <file>file:/C:/Users/Prasad/OneDrive/Documents/NetBeansProjects/SupermarketManagement/src/mypackage/login.java</file>
             <file>file:/C:/Users/Prasad/OneDrive/Documents/NetBeansProjects/SupermarketManagement/src/mypackage/CommonFunctions.java</file>
             <file>file:/C:/Users/Prasad/OneDrive/Documents/NetBeansProjects/SupermarketManagement/src/mypackage/Billingpoint.java</file>
+=======
+            <file>file:/D:/A_REGAL_CLASSES/JAVA_CLASS/NetBeansProjects/SupermarketManagement/src/mypackage/Category.java</file>
+            <file>file:/D:/A_REGAL_CLASSES/JAVA_CLASS/NetBeansProjects/SupermarketManagement/src/mypackage/Seller.java</file>
+            <file>file:/D:/A_REGAL_CLASSES/JAVA_CLASS/NetBeansProjects/SupermarketManagement/src/mypackage/updateAdmin.java</file>
+            <file>file:/D:/A_REGAL_CLASSES/JAVA_CLASS/NetBeansProjects/SupermarketManagement/src/mypackage/productsFrame.java</file>
+            <file>file:/D:/A_REGAL_CLASSES/JAVA_CLASS/NetBeansProjects/SupermarketManagement/src/mypackage/Billingpoint.java</file>
+            <file>file:/D:/A_REGAL_CLASSES/JAVA_CLASS/NetBeansProjects/SupermarketManagement/src/mypackage/login.java</file>
+>>>>>>> 0367d1e4f0279073c91e05209b370ea3f8b5e84c
         </group>
     </open-files>
 </project-private>
